@@ -1,0 +1,15 @@
+{
+  "require": {
+    "getkirby/cms": "^3.0",
+    "flokosiol/focus": "^3.0",
+    "omz13/kirby3-xmlsitemap": "^1.1",
+    "bnomei/kirby3-robots-txt": "^1.2",
+    "diverently/laravel-mix-kirby": "^1.1",
+    "k-community/markdown-field": "^1.0",
+    "timoetting/kirby-builder": "^2.0",
+    "getkirby/editor": "^1.0"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}

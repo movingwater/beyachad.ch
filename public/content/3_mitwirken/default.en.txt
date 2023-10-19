@@ -1,0 +1,60 @@
+Title: Get involved
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - drops.jpg
+  text: '[{"attrs":{"id":null},"content":"Get involved","id":"_DA6DQuKnw","type":"h1"}]'
+  containerheight: large
+  container: default
+  padding: small
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1566502864182_4638
+  _key: banner
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Get involved with be'yachad","id":"_ztdDk6jNI","type":"h2"},{"attrs":[],"content":"<br>Are you interested in what God is doing among Messianic Jews and Palestinian Christians in Israel and the Palestinian Areas? Does the message of reconciliation from this otherwise so unreconciled part of the world excite you? We look forward to your feedback! (See response form on back page)","id":"_2276alcas","type":"paragraph"},{"attrs":[],"content":"As donations for the local congregations are forwarded without any administrative deductions, be'yachad is also looking for partners or Association members who are ready to contribute to the ministry as an organization.","id":"_tqoms1mjg","type":"paragraph"},{"attrs":[],"content":"(link: kontakt text: Donate class: button-2)","id":"_guf0tckd4","type":"kirbytext"}]
+  container: default
+  textalign: center
+  _uid: default_1566502958224_5074
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"be'yachad Partners or Association Members are Churches and Individuals, who...","id":"_GEZXL3jcH","type":"h3"},{"attrs":[],"content":"Identify with the vision and approach of be'yachad.","id":"_xgHT6A9Ti","type":"ul"},{"attrs":[],"content":"Support be'yachad as an organization also financially.","id":"_FHSSVzYoE","type":"ul"},{"attrs":[],"content":"Pray for the needs of our Palestinian-Christian and Messianic-Jewish Partners.","id":"_L1dJVFexN","type":"ul"},{"attrs":[],"content":"As \"Partner\" of be'yachad you do not enter into any legal commitment. How much you contribute towards the organization is up to you.","id":"_wcSjgNJ0E","type":"ul"},{"attrs":[],"content":"As \"Member of the Association\" you can help shape be'yachad in the annual general Assembly. Annual membership costs 1000 CHF\/USD for churches and 500 CHF\/USD for individuals.","id":"_1mdXSOcG2","type":"ul"}]
+  container: default
+  textalign: ""
+  _uid: default_1566502993291_5228
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"be'yachad Services","id":"_sdtc4mEKy","type":"h3"},{"attrs":[],"content":"Provide you with information and prayer updates from our local partners.","id":"_g8ktXFmGs","type":"ul"},{"attrs":[],"content":"Assist you in addressing specific topics about Israel within your church.","id":"_4pb5TXCug","type":"ul"},{"attrs":[],"content":"Contacts to partner congregations in Israel and the Palestinian Areas.","id":"_AuV6qqC9Z","type":"ul"},{"attrs":[],"content":"Events with Israeli and Palestinian guest speakers in Switzerland.","id":"_woQufjJZU","type":"ul"},{"attrs":[],"content":"Organize Israel tours for all interested in joining; a mix of getting to know country and culture, meeting congregations and believers on both sides, relaxation and fun.","id":"_dbC3gf4DU","type":"ul"},{"attrs":[],"content":"Advice for individual Israel trips.","id":"_7OOXkNKpJ","type":"ul"}]
+  container: default
+  textalign: ""
+  _uid: default_1566503062133_5394
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

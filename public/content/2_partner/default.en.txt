@@ -1,0 +1,126 @@
+Title: Partners
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - img_20191126_110241.jpg
+  text: '[{"attrs":[],"content":"Partners","id":"_ahjn15h1b","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1576663979891_4673
+  _key: banner
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Supported partners","id":"_LjMPuhX3M","type":"h2"},{"attrs":[],"content":"be'yachad in Hebrew means \"together\" or \"one\". Messianic Jews and Christians together represent the church of Jesus Christ or Yeshua, the Messiah. The churches exclusion of Messianic Jews and their Jewish expression of faith had severe implications. For 1700 years the Jewish-Messianic component was rendered practically non-existent.","id":"_7ri9027dv","type":"paragraph"},{"attrs":[],"content":"In the last 40 years Messianic-Jewish congregations have begun being re-established. The Jewish part of the Body of Christ is experiencing a form of ressurection. The growing unity of Messianic-Jewish and Palestinian-Christian congregations in Israel and the Palestinian Areas today is a significant sign of reconciliation and unity for believers worldwide.","id":"_g033efepx","type":"paragraph"},{"attrs":[],"content":"Palestinian Christians as well as Messianic Jews are minorities in their respective societies and suffer increasingly from repressions. They are setting a much needed example of hope and peace in this region.","id":"_owywwrkh2","type":"paragraph"},{"attrs":[],"content":"Currently the be'yachad Association is supporting six partners in Israel and the Palestinian Areas, introduced here in chronological order of their support through be'yachad: <br>","id":"_bgwv0mj72","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: default_1576663994159_4987
+  _key: default
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Congregation Beit Asaph Netanya","id":"_hdryc7njd","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/evan.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1853856386-1576664626\/evan.jpg","id":"partner\/evan.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_lc9wzdc0s","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Since its establishment in the late 1970's, the Beit Asaph (House of Gathering) congregation has grown to 240 members (80 children and teenagers). Jewish immigrants from numerous countries (8 different languages) but especially from the former Soviet Union (70% of the members), give the congregation a multi-cultural expression. Traditional Jewish elements like the reading from their own Torah scroll characterize the services which are held in Hebrew with simultaneous translations into English and Russian. The congregation has built up a widespread network of homegroups organized according to languages, which will permit the creation of new future congregations in the greater Netanya area. Beit Asaph is co-equally led by Evan Thomas, a Jew from New Zealand who immigrated in the early 80's, and Lev Guler, who immigrated with his family in the 90's from Russia.","id":"_kcc42cxq9","type":"paragraph"}]
+    - 
+      text: '[{"attrs":[],"content":"The congregation is active in multiple areas: reconciliation initiative with Palestinian believers (Musalaha), development of Hebrew Shabbat school programs for children and youth, distribution of clothing and food to the needy (Joseph Project), ministry to the disabled, drug addicts and alcoholics, fund to assist single parents, and more.","id":"_u9e0rzl7o","type":"paragraph"}]'
+  container: default
+  textalign: left
+  _uid: columns_1576664207965_6582
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Immanuel Evangelical Church Bethlehem","id":"_wte9as5jx","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/nihad.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1393287438-1576665006\/nihad.jpg","id":"partner\/nihad.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_4rcmd04r6","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"With over 200 members this active Palestinian-Christian church has a leading role within the Palestinian Areas. For local believers in Jesus, life is often difficult and even dangerous. The difficult economic situation creates severe additional pressure. Under the leadership of Pastor Nihad Salman and the team of elders, the church is not deterred by the many hardships nor by the lack of support from the church in general: \"God has placed us believers here, to be a light to our people!\" Immanuel Church is active in church-planting in the region. Right in the centre of Bethlehem they run the only Christian Bookshop within the Palestinian Areas. With a large selection of Arab bibles, books and CDs, the shop has become a point of attraction in Bethlehem.","id":"_f92kox1h8","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Nihad Salman has succeeded in building up a team of young co-leaders, an important development which be'yachad is happy to facilitate.","id":"_177vddn84","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576664677551_8093
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Congregation Shemen Sasson Jerusalem","id":"_wkxie4wv2","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/jonathan.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1913066001-1576666441\/jonathan.jpg","id":"partner\/jonathan.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_3srifsu0i","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Shemen Sasson (Oil of Joy) started off in 1992 as a homegroup which soon became too large to meet in regular living-rooms. The congregation particularly reaches out to the young indigenous Israelis (Sabras). Thanks to a network of homegroups organized according to languages and the lively Hebrew services which attract many visitors, the congregation has already grown to about 200 members. Reconciliation work is very important to Shemen Sasson. In large teams the members visit poor Arab or immigrant neighborhoods of Jerusalem to collect garbage and get in touch with the people.","id":"_7izej1cys","type":"paragraph"}]'
+    - 
+      text: '[{"attrs":[],"content":"Shemen Sasson follows the calling in Isaiah 61: \"to console those who mourn in Zion, to give them beauty for ashes, the oil of joy (shemen sasson) for mourning, the garment of praise for the spirit of heaviness.\" The congregation is well-known for its dynamic praise and worship, that like the city of Jerusalem in which it is located, is a fusion of East and West; ancient and modern. They have a strong pastoral team led by Yonathan d’Almeida, and are filled with many young adults who are seriously committed to serve the Lord and make a difference in their generation.","id":"_jpk391f9f","type":"paragraph"},{"attrs":[],"content":"The growing congregation has reached the limits of what can be achieved with volunteer staff.","id":"_dhl5gedx1","type":"paragraph"}]'
+  container: default
+  textalign: left
+  _uid: columns_1576665033035_10299
+  _key: columns
+  uidline: null
+  isnew: true
+- 
+  text: '[{"attrs":[],"content":"Jerusalem Alliance Church Old City of Jerusalem","id":"_wxx5vf5jz","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/mazen.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/2550337838-1576666280\/mazen.jpg","id":"partner\/mazen.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_xiklh38r1","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"he Alliance Church with its' over 100 members is one of the largest and oldest evangelical churches in the Old City of Jerusalem. During the last few years the church has successfully planted other Palestinian-Christian churches. The Alliance Church is particularly active among the more than 270'000 East Jerusalem Arab residents who live in Jerusalem and the Palestinian Areas but do not hold Israeli citizenship.","id":"_aad06s2b4","type":"paragraph"},{"attrs":[],"content":"The church has established a theological training school for local Arab leaders in Jerusalem. In addition, the church also runs a significant development aid project in the Northern Westbank.","id":"_ktddqn119","type":"paragraph"},{"attrs":[],"content":"The church is led by Pastor Mazen Nasrawi and a team of elders. Their heart beats to reach out to the Arab-speaking people in the land, through evangelistic outreaches, public concerts, Christian Feast Days, humanitarian aid or public ads in combination with telefone hotlines and the usage of social media.","id":"_8bmfix1ac","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"The vision statement of the church is: \"As healthy families to live for Christ, to grow and serve society\".The leaders of the Alliance Church work closely together with Messianic-Jewish congregations, also inviting each other to preach and serve their congregations.","id":"_vio55qze1","type":"paragraph"},{"attrs":[],"content":"It is a pleasure for be'yachad to partner with the Alliance Church.","id":"_iuimxw29j","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665261344_12294
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Kfar Yassif Church","id":"_33et6mcgv","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/khaled.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/2964219499-1576666270\/khaled.jpg","id":"partner\/khaled.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_heka1cmx3","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Pastor Khaled Dalleh currently leads 2 Baptist churches in Arab towns in the North of Israel (Kfar Yassif and Akko) with about 50-100 members each. In the past he has often served as pastor to smaller churches, and then coached and released younger leaders into full pastor responsibilities, then withdrawing from operative responsibility but continuing to mentor the new pastors.","id":"_av3aewwwd","type":"paragraph"},{"attrs":[],"content":"Khaled was born in Kfar Yassif. His grandmother was already a follower of Jesus and had taken him as a 12-year old to visit their Muslim neighbours and reach out to them with the Gospel (such visits were very unusual in those days). She asked him to read to them from the Bible because she couldn't read very well anymore. After several of those outreaches Khaled came to faith in Jesus at the age of 12. Since that time, it has been his deep desire to reach people for Christ, no matter if they are Muslim or Christian by tradition. Therefore, the churches led by him are quite diverse. They frequently experience that Jesus reveals Himself through dreams, especially to Muslims, and that these will then make a decision for Jesus, in spite of persecution by their families.","id":"_fxn0trzgj","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"These churches can cover the cost for rent and other expenses through their tithes but typically not the pastor's salary particularly with the high cost of living in Israel. Khaled is supported in his work by a team of elders and many volunteers. be'yachad is happy to partner with them in their important work.","id":"_bu0z9tf8e","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665545249_13597
+  _key: columns
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Ratzon Ha'El, Haifa","id":"_lma0uiocv","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/zachariah.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/532887875-1576666256\/zachariah.jpg","id":"partner\/zachariah.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_n5np1xxvz","type":"image"}]
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Pastor Zachariah Arny is an Ethiopian Jew and pastor of an Ethiopian Messianic-Jewish congregation. During the past 30 years a total of about 150,000 Ethiopian Jews have immigrated to Israel, and about 1,500 of them have come to faith in Yeshua. There are 9 Ethiopian congregations throughout the whole country.","id":"_kxudjm2ul","type":"paragraph"},{"attrs":[],"content":"Services are held in Amharic and Hebrew. Many Ethiopian Jews in Israel are socially disadvantaged and discriminated against because of their skin colour. When one of them comes to faith in Yeshua he or she will usually experience severe rejection from the family and relatives. Zachariah and his wife Almaz experienced this too: their wedding feast was stormed by Almaz' family. They tried to destroy and break down everything and wanted to hurt Zachariah, who, thanks be to God, was able to escape. Today, 6 years later, their relatives have accepted their faith and even request prayer from them!","id":"_66piz1by4","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Zachariah is currently in close contact with approximately 40 Ethiopian Jews in Haifa, who have come to faith in Yeshua but do not yet dare tell their families. Zechariah supports these new believers mainly through phone calls and individual visits.","id":"_jcs1b3hpf","type":"paragraph"},{"attrs":[],"content":"His congregation Ratzon Ha'El (the Will of God) in Haifa was founded 10 years ago, and has meanwhile over 50 adult members and 10 children. Up until the start of be'yachad's support in Oct 2012, it was not possible for the congregation to employ a pastor at all. Now they can employ Pastor Zachariah on a part-time basis.","id":"_bfip296ju","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576666054557_15138
+  _key: columns
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

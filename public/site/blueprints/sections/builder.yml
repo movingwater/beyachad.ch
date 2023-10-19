@@ -1,0 +1,14 @@
+type: builder
+label: Inhalt
+columns: 1
+fieldsets:
+    banner:
+        extends: builder/banner
+    default:
+        extends: builder/default
+    columns:
+        extends: builder/columns
+    images:
+        extends: builder/images
+    donation:
+        extends: builder/donation

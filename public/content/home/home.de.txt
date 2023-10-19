@@ -1,0 +1,54 @@
+Builder:
+
+- 
+  myimages:
+    - together02.jpg
+  text: '[{"attrs":[],"content":"together","id":"_0gdzoerxw","type":"h1"},{"attrs":[],"content":"gemeinsam. verbunden.","id":"_9g48h2dls","type":"paragraph"}]'
+  containerheight: full
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: bottom
+  _uid: banner_1566479551884_665
+  _key: banner
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Der Film","id":"_492ca8hll","type":"h2"},{"attrs":{"src":"https:\/\/vimeo.com\/506985312","caption":"","css":"video-16x9"},"content":"","id":"_nu2kmcxf2","type":"video"}]'
+  container: default
+  textalign: left
+  _uid: default_1612167303512_726
+  _key: default
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vision","id":"_lyg8q5Dd7","type":"h2"},{"attrs":[],"content":"Vernetzung mit messianisch-j\u00fcdischen und pal\u00e4stinensisch-christlichen Gemeinden ermutigt, Vers\u00f6hnung zu leben. Die Unterst\u00fctzung ihrer Mitarbeiter f\u00f6rdert Gemeindewachstum in Israel und in den autonomen Gebieten.","id":"_Mo0fHjaBo","type":"paragraph"},{"attrs":[],"content":"(link: ueber-uns text: mehr class: button-1) ","id":"_5a5oqxvcg","type":"kirbytext"}]'
+  container: default
+  textalign: left
+  _uid: default_1566479654521_968
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Mitwirken bei be'yachad","id":"_pFrJtGJxg","type":"h2"},{"attrs":[],"content":"Interessiert Sie Gottes Wirken unter messianischen Juden und pal\u00e4stinensischen Christen in Israel und den autonomen Gebieten? Begeistert Sie die Botschaft der Vers\u00f6hnung, die uns gerade aus diesem Teil der Welt erreicht?","id":"_MV7P44h77","type":"paragraph"},{"attrs":[],"content":"Unten finden Sie M\u00f6glichkeiten zur Mitwirkung. Wir freuen uns auf Ihr Feedback! Da Spenden f\u00fcr Partner vor Ort eingesetzt werden, sucht be'yachad auch Unterst\u00fctzer, die den Verein als Organisation mittragen.","id":"_By8QFQzTf","type":"paragraph"},{"attrs":[],"content":"(link: mitwirken text: Mitwirken class: button-1) (link: kontakt text: Spenden class: button-2)","id":"_gjdmmdiu9","type":"kirbytext"}]
+  container: default
+  textalign: ""
+  _uid: default_1566480019891_1965
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

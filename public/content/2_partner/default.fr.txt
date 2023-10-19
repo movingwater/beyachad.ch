@@ -1,0 +1,130 @@
+Title: Partenairs
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - img_20191126_110241.jpg
+  text: '[{"attrs":[],"content":"Partenairs","id":"_ahjn15h1b","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1576663979891_4673
+  _key: banner
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Partenaires soutenus","id":"_oD2oVljhc","type":"h2"},{"attrs":[],"content":"be'yachad signifie en h\u00e9breu \u00abensemble\u00bb ou \u00abun\u00bb. Les juifs messianiques d'un c\u00f4t\u00e9, les chr\u00e9tiens de l'autre, forment ensemble l'\u00e9glise de J\u00e9sus-Christ, de Yeshua, le Messie. L'exclusion des juifs messianiques de l'\u00e9glise, et le rejet de la forme juive d'expression de leur foi ont \u00e9t\u00e9 une s\u00e9paration lourde de cons\u00e9quences. Pendant pr\u00e8s de 1700 ans, la composante juive messianique fut quasi inexistante. Pourtant, au cours des 40 derni\u00e8res ann\u00e9es, les assembl\u00e9es juives messianiques sont r\u00e9apparues partout dans le monde. La partie juive du Corps du Christ conna\u00eet une sorte de r\u00e9surrection. En cela, le rapprochement entre les communaut\u00e9s juives messianiques et chr\u00e9tiennes palestiniennes dans l'actuel Isra\u00ebl et les Territoires Autonomes est un signe qui t\u00e9moigne de la r\u00e9conciliation et de l'unit\u00e9 au sein du peuple de Dieu. Aussi bien les chr\u00e9tiens palestiniens que les juifs messianiques sont minoritaires dans leurs soci\u00e9t\u00e9s respectives et souffrent d'une r\u00e9pression croissante. Mais c'est justement eux qui constituent un signe urgent et indispensable d'espoir et de paix pour cette r\u00e9gion.","id":"_tdobxcvnp","type":"paragraph"},{"attrs":[],"content":"Actuellement, l'association be'yachad soutient six partenaires en Isra\u00ebl et dans les Territoires Autonomes Palestiniens. Ci-dessous, nous vous pr\u00e9sentons dans l'ordre chronologique les d\u00e9buts de soutien par be'yachad:","id":"_l0c6vsjiz","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: default_1576663994159_4987
+  _key: default
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Assembl\u00e9e Beit Asaph Netanya","id":"_hdryc7njd","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/evan.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1853856386-1576664626\/evan.jpg","id":"partner\/evan.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_lc9wzdc0s","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Depuis sa cr\u00e9ation \u00e0 la fin des ann\u00e9es 70, l'assembl\u00e9e Beit Asaph (Maison du rassemblement) n'a cess\u00e9 de grandir et compte aujourd'hui plus de 240 membres (80 enfants et adolescents). Des immigr\u00e9s juifs venus de plusieurs pays (plus de 8 diff\u00e9rentes langues), mais particuli\u00e8rement de l'ex-Union Sovi\u00e9tique (70% des membres) conf\u00e8rent \u00e0 cette communaut\u00e9 une expression multiculturelle. Les services, c\u00e9l\u00e9br\u00e9s en h\u00e9breu avec traduction simultan\u00e9e en anglais et en russe, int\u00e8grent des \u00e9l\u00e9ments traditionnels du juda\u00efsme, tel que la lecture \u00e0 partir du rouleau de la Torah. La communaut\u00e9 a mis en place un vaste r\u00e9seau de \u00abcellules de maison\u00bb selon la langue, ce qui devrait permettre plus tard la cr\u00e9ation de nouvelles communaut\u00e9s dans l'agglom\u00e9ration de Netanya. Beit Asaph est co-dirig\u00e9e par Evan Thomas, un juif de Nouvelle Z\u00e9lande qui a immigr\u00e9 dans les ann\u00e9es 80 et par Lev Guler qui a immigr\u00e9 de l'Ukraine avec sa famille dans les ann\u00e9es 90.","id":"_uejd9cpjc","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"La communaut\u00e9 est active dans plusieurs domaines: initiative de r\u00e9conciliation avec les croyants palestiniens (Musalaha), activit\u00e9s d'\u00e9vang\u00e9lisation sur le plan national, conception et d\u00e9veloppement de mat\u00e9riel de formation en h\u00e9breu pour les jeunes et les enfants, distribution de v\u00eatements et de nourritures aux n\u00e9cessiteux (Projet Joseph), prise en charge de personnes handicap\u00e9es, centre de r\u00e9habilitation pour les drogu\u00e9s et alcooliques, fonds d'assistance aux parents isol\u00e9s, etc.","id":"_u9e0rzl7o","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576664207965_6582
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Immanuel Evangelical Church Bethlehem","id":"_wte9as5jx","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/nihad.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1393287438-1576665006\/nihad.jpg","id":"partner\/nihad.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_4rcmd04r6","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Avec plus de 200 membres cette \u00e9glise palestinienne joue un r\u00f4le moteur dans les Territoires Autonomes. Pour ces croyants, la vie est tr\u00e8s difficile et m\u00eame dangereuse. Le ch\u00f4mage end\u00e9mique augmente la pression quotidienne. Sous la direction du pasteur Nihad Salman et de son \u00e9quipe d'Anciens, l'\u00e9glise ne se laisse perturb\u00e9e ni par cette situation, ni par le manque de soutien de la part de l'Eglise en g\u00e9n\u00e9ral: \u00abDieu nous a plac\u00e9s ici, nous croyants, pour \u00eatre une lumi\u00e8re pour notre peuple!\u00bb","id":"_f92kox1h8","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Immanuel Church a d\u00e9j\u00e0 fond\u00e9 d'autres \u00e9glises dans la r\u00e9gion et soutient l'implantation de nouvelles. Elle poss\u00e8de par ailleurs dans le centre de Bethlehem la seule librairie chr\u00e9tienne en territoires palestiniens. Avec une large palette de bibles en arabe, de livres et de CD, cette librairie est devenue un v\u00e9ritable p\u00f4le d'attraction \u00e0 Bethlehem.","id":"_doo1t5bsy","type":"paragraph"},{"attrs":[],"content":"Nihad Salman a lev\u00e9 une \u00e9quipe de jeunes leaders, un d\u00e9veloppement important que be'yachad est heureuse de soutenir.","id":"_cmze6khfv","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576664677551_8093
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Assembl\u00e9e Shemen Sasson J\u00e9rusalem","id":"_wkxie4wv2","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/jonathan.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1913066001-1576666441\/jonathan.jpg","id":"partner\/jonathan.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_3srifsu0i","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"A l'origine, Shemen Sasson (Huile de la Joie) \u00e9tait une cellule de maison. Mais peu apr\u00e8s, elle devint bien trop grande pour se r\u00e9unir dans une simple maison. Depuis, cette communaut\u00e9 s'investit particuli\u00e8rement aupr\u00e8s des jeunes Isra\u00e9liens n\u00e9s dans le pays (les Sabras). Gr\u00e2ce \u00e0 un r\u00e9seau de cellules de maison organis\u00e9 par langue, et gr\u00e2ce aux cultes vivants en h\u00e9breu qui attirent de nombreux visiteurs, l'assembl\u00e9e compte d\u00e9j\u00e0 plus de 200 membres. Shemen Sasson met un accent particulier sur le travail de r\u00e9conciliation. Ainsi, des \u00e9quipes descendent dans les quartiers pauvres de J\u00e9rusalem \u00e0 forte population arabe ou d'immigr\u00e9s pour ramasser les ordures, mais aussi dans le but d'entrer en contact avec les habitants.","id":"_7izej1cys","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Shemen Sasson tire sa mission d'Esa\u00efe 61: \"Pour consoler les afflig\u00e9s de Sion, pour leur donner un diad\u00e8me au lieu de la cendre, une huile de joie (Shemen Sasson) au lieu du deuil, un v\u00eatement de louange au lieu d'un esprit abattu...\"","id":"_0qt3yz836","type":"paragraph"},{"attrs":[],"content":"La communaut\u00e9 est connue pour sa louange dynamique, qui refl\u00e8te, comme la ville de J\u00e9rusalem elle-m\u00eame, une fusion entre l'Est et l'Ouest, l'ancien et le moderne. Ils ont une \u00e9quipe pastorale \u00e9prouv\u00e9e qui est dirig\u00e9e par Yonathan d’Almeidaun et de nombreux jeunes adultes qui s'investissent totalement dans le travail de la communaut\u00e9 et qui souhaitent faire une diff\u00e9rence dans leur g\u00e9n\u00e9ration.","id":"_pncx8mh37","type":"paragraph"},{"attrs":[],"content":"La communaut\u00e9 croissante a d\u00e9sormais atteint la limite de ce qu'il est possible de r\u00e9aliser avec un personnel surtout b\u00e9n\u00e9vole.","id":"_08q6kktbt","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665033035_10299
+  _key: columns
+  uidline: null
+  isnew: true
+- 
+  text: '[{"attrs":[],"content":"Jerusalem Alliance Church Vieille ville de J\u00e9rusalem","id":"_wxx5vf5jz","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/mazen.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/2550337838-1576666280\/mazen.jpg","id":"partner\/mazen.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_xiklh38r1","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"L'Alliance Church est l'une des plus grandes et anciennes \u00e9glises \u00e9vang\u00e9liques de la vieille ville de J\u00e9rusalem. Ces derni\u00e8res ann\u00e9es, elle a fond\u00e9 d'autres \u00e9glises chr\u00e9tiennes palestiniennes. Alliance Church est particuli\u00e8rement active parmi les plus de 270'000 habitants arabes de J\u00e9rusalem-Est qui, bien que vivant \u00e0 J\u00e9rusalem, n'ont pas la nationalit\u00e9 isra\u00e9lienne. L'\u00e9glise a cr\u00e9\u00e9 un centre de formation th\u00e9ologique pour les leaders arabes de J\u00e9rusalem.","id":"_xdo0ful4j","type":"paragraph"},{"attrs":[],"content":"En outre, l'\u00e9glise conduit un important projet d'aide au d\u00e9veloppement au nord de la Cisjordanie.","id":"_rdu2lrrdy","type":"paragraph"},{"attrs":[],"content":"L'\u00e9glise est dirig\u00e9e par le pasteur Mazen Nasrawi et d'une \u00e9quipe d'Anciens. Leur voeu le plus cher est de toucher les personnes arabophones du pays, que se soit par l'\u00e9vang\u00e9lisation de rue, des f\u00eates Openair lors des jours-f\u00e9ri\u00e9s chr\u00e9tiens, l'aide humanitaire ou des campagnes d'annonces avec des Hotlines et l'utilisation des m\u00e9dias actuels. Leur vision est celle-ci: \"Vivre pour Christ, grandir et servir la soci\u00e9t\u00e9 en tant que familles saines.\"","id":"_su48ehdkt","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Les leaders de l'Alliance Church travaillent en \u00e9troite collaboration avec les communaut\u00e9s juives messianiques et s'invitent mutuellement \u00e0 pr\u00eacher et \u00e0 servir dans leurs \u00e9glises respectives.","id":"_eyhf0k5uo","type":"paragraph"},{"attrs":[],"content":"be'yachad se r\u00e9jouit d'\u00eatre partenaire de l'Alliance Church.","id":"_1jyd0jdgn","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665261344_12294
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Kfar Yassif Church","id":"_33et6mcgv","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/khaled.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/2964219499-1576666270\/khaled.jpg","id":"partner\/khaled.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_heka1cmx3","type":"image"}]'
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Le pasteur Khaled Dalleh conduit actuellement deux \u00e9glises baptistes dans des villes arabes du Nord d'Isra\u00ebl (Kfar Yassif et Akko) avec environ 50-100 membres chacune. Par le pass\u00e9, il a toujours servi en tant que pasteur dans de petites \u00e9glises, soutenu de jeunes responsables puis leur a donn\u00e9 la totale responsabilit\u00e9 du pastorat. Il continue de suivre ces jeunes pasteurs en tant que mentor.","id":"_j97eeghdm","type":"paragraph"},{"attrs":[],"content":"Khaled est n\u00e9 \u00e0 Kfar Yassif. D\u00e9j\u00e0 enfant, sa grand-maman, qui croyait en J\u00e9sus, le prenait avec elle, chez des voisins musulmans (de telles visites n'\u00e9taient pas banales, \u00e0 ce moment-l\u00e0). Il devait lire des passages de la Bible pour elle, parce qu'elle n'en \u00e9tait plus capable. Apr\u00e8s quelques visites, il s'est converti \u00e0 l'\u00e2ge de 12 ans - dor\u00e9navant, c'est son voeu le plus cher d'atteindre ses voisins avec sa foi, qu'ils soient musulmans ou chr\u00e9tiens traditionnels. Ce m\u00e9lange se voit aussi dans les \u00e9glises dont il est responsable. Ils voient r\u00e9guli\u00e8rement comment J\u00e9sus se d\u00e9voile dans les r\u00eaves des personnes, surtout musulmanes, et que celles-ci, malgr\u00e9 les pers\u00e9cutions parfois violentes de la famille, se d\u00e9cident pour J\u00e9sus.","id":"_fkpfyfddt","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Les \u00e9glises peuvent payer la location et autres d\u00e9penses gr\u00e2ce \u00e0 la d\u00eeme, mais pas le salaire du pasteur. Khaled est soutenu dans son travail par une \u00e9quipe d'Anciens et beaucoup de b\u00e9n\u00e9voles.","id":"_a509oiw48","type":"paragraph"},{"attrs":[],"content":"be'yachad soutien son travail par un salaire depuis octobre 2012.","id":"_9156hwqmt","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665545249_13597
+  _key: columns
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Ratzon Ha'El, Haifa","id":"_lma0uiocv","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/zachariah.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/532887875-1576666256\/zachariah.jpg","id":"partner\/zachariah.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_n5np1xxvz","type":"image"}]
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Le Pasteur Zachariah Arni est juif \u00e9thiopien et pasteur d'une assembl\u00e9e juive messianique \u00e9thiopienne \u00e0 Haifa. Durant les 30 derni\u00e8res ann\u00e9es, environ 150'000 juifs \u00e9thiopiens ont immigr\u00e9 en Isra\u00ebl, d\u00e8s lors, environ 1500 d'entre eux se sont tourn\u00e9s vers Yeshua - dans tout le pays, il existe aujourd'hui 9 \u00e9glises \u00e9thiopiennes.","id":"_43d5gtiu1","type":"paragraph"},{"attrs":[],"content":"La langue des cultes est l'amharique et l'h\u00e9breu. Beaucoup de juifs \u00e9thiopiens sont socialement d\u00e9favoris\u00e9s et discrimin\u00e9s \u00e0 cause de la couleur de leur peau. Lorsque l'un d'entre eux se tourne vers Yeshua, il est souvent violemment rejet\u00e9 part sa famille juive-religieuse et part son clan. Cela est \u00e9galement arriv\u00e9 \u00e0 Zachariah et sa femme Almaz : Leur c\u00e9r\u00e9monie de mariage a compl\u00e8tement \u00e9t\u00e9 saccag\u00e9e par la famille d'Almaz. Ils ont tout r\u00e9duit en miettes et voulaient tuer Zachariah - Dieu merci, il a pu s'enfuir. Aujourd'hui, six ans plus tard, ils ont accept\u00e9 leur foi, leur demandent de prier pour eux et posent des questions!","id":"_44h327hzs","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Zachariah accompagne pr\u00e8s de 40 juifs \u00e9thiopiens \u00e0 Haifa, qui se sont tourn\u00e9s vers Yeshua, mais qui n'ont pas encore eu le courage de le dire \u00e0 leur famille. Zachariah accompagne ces personnes par t\u00e9l\u00e9phone et par des entretiens individuels.","id":"_h30pneb30","type":"paragraph"},{"attrs":[],"content":"Son assembl\u00e9e, Ratzon Ha'El (volont\u00e9 de Dieu) \u00e0 Haifa, existe depuis 9 ans et compte, aujourd'hui, 50 adultes et 10 enfants. Une place r\u00e9mun\u00e9r\u00e9e de pasteur n'\u00e9tait pas encore possible avant le soutien de be'yachad (octobre 2012). Maintenant, l'assembl\u00e9e \u00e0 la possibilit\u00e9 d'offrir \u00e0 Zachariah une place de pasteur \u00e0 40%.","id":"_fb3xg3iwn","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576666054557_15138
+  _key: columns
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

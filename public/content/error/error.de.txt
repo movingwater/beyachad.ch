@@ -1,0 +1,40 @@
+Title: Error
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - error.jpg
+  text: '[{"attrs":[],"content":"Hoppla","id":"_6xday7d70","type":"h1"},{"attrs":[],"content":"Die gew\u00fcnschte Seite wurde verschoben oder gel\u00f6scht.","id":"_eeyacvy02","type":"paragraph"},{"attrs":[],"content":"(link: text: Startseite class: button-2)","id":"_6z92x63yj","type":"kirbytext"}]'
+  containerheight: full
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: center
+  textvalign: middle
+  _uid: banner_1576859614453_865
+  _key: banner
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 
+
+----
+
+Text: 

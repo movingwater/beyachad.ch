@@ -1,0 +1,47 @@
+Builder:
+
+- 
+  myimages:
+    - together02.jpg
+  text: '[{"attrs":[],"content":"together","id":"_0gdzoerxw","type":"h1"},{"attrs":[],"content":"gemeinsam. verbunden.","id":"_9g48h2dls","type":"paragraph"}]'
+  containerheight: full
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: bottom
+  _uid: banner_1566479551884_665
+  _key: banner
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vision","id":"_lyg8q5Dd7","type":"h2"},{"attrs":[],"content":"Networking with Messianic-Jewish and Palestinian-Christian congregations encourages reconciliation. Supporting their local staff contributes to congregational growth in Israel and the Palestinian Autonomous Area.","id":"_Mo0fHjaBo","type":"paragraph"},{"attrs":[],"content":"(link: ueber-uns text: more class: button-1)","id":"_5a5oqxvcg","type":"kirbytext"}]'
+  container: default
+  textalign: left
+  _uid: default_1566479654521_968
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Get involved with be'yachad","id":"_nefDUmKLY","type":"h2"},{"attrs":[],"content":"Are you interested in what God is doing among Messianic Jews and Palestinian Christians in Israel and the Palestinian Areas? Does the message of reconciliation from this otherwise so unreconciled part of the world excite you? We look forward to your <a href=\"kontakt\">feedback<\/a>!","id":"_01651gied","type":"paragraph"},{"attrs":[],"content":"As donations for the local congregations are forwarded without any administrative deductions, be'yachad is also looking for partners or Association members who are ready to contribute to the ministry as an organization.","id":"_dlei0hx9j","type":"paragraph"},{"attrs":[],"content":"(link: mitwirken text: Get involved! class: button-1) (link: kontakt text: Donate class: button-2)","id":"_gjdmmdiu9","type":"kirbytext"}]
+  container: default
+  textalign: ""
+  _uid: default_1566480019891_1965
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

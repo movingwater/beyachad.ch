@@ -1,0 +1,124 @@
+Title: Partner
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - img_20191126_110241.jpg
+  text: '[{"attrs":[],"content":"Partner","id":"_ahjn15h1b","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1576663979891_4673
+  _key: banner
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Unterst\u00fctzte Partner","id":"_oD2oVljhc","type":"h2"},{"attrs":[],"content":"Messianische Juden einerseits und Christen andererseits bilden zusammen die Gemeinde von Jesus Christus oder von Yeshua, dem Messias. Der Ausschluss der messianischen Juden und der j\u00fcdischen Ausdrucksweise ihres Glaubens aus der Gemeinde war eine folgenschwere Trennung. Knapp 1700 Jahre lang war die j\u00fcdisch-messianische Komponente quasi inexistent. <br><br>In den letzten 40 Jahren entstehen wieder weltweit messianisch-j\u00fcdische Gemeinden. Der j\u00fcdische Teil des Leibes Christi erf\u00e4hrt eine Art Auferstehung. Das Miteinander von messianisch-j\u00fcdischen und pal\u00e4stinensisch-christlichen Gemeinden im heutigen Israel und den autonomen Gebieten ist dabei ein zeugnishaftes Zeichen f\u00fcr Vers\u00f6hnung und Einheit im ganzen Volk Gottes. Sowohl pal\u00e4stinensische Christen als auch messianische Juden sind Minorit\u00e4ten in ihrer Gesellschaft und leiden zunehmend unter Repressionen, dabei setzen gerade sie ein dringend ben\u00f6tigtes Zeichen der Hoffnung und des Friedens in dieser Region. <br><br>Gegenw\u00e4rtig unterst\u00fctzt der Verein be'yachad sechs Partner in Israel und in den pal\u00e4stinensischen Autonomiegebieten. Im Folgenden werde sie in chronologischer Reihenfolge des Unterst\u00fctzungsbeginns durch be'yachad vorgestellt:","id":"_9tpJ1Owil","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: default_1576663994159_4987
+  _key: default
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Gemeinde Beit Asaph in Netanya","id":"_hdryc7njd","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/evan.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1853856386-1576664626\/evan.jpg","id":"partner\/evan.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_lc9wzdc0s","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Seit der Gr\u00fcndung in den sp\u00e4ten 70er Jahren ist die Gemeinde Beit Asaph (Haus der Versammlung) heute auf 240 Mitglieder (80 Kinder und Jugendliche) angewachsen. J\u00fcdische Einwanderer aus zahlreichen L\u00e4ndern (\u00fcber 8 verschiedene Sprachen), aber insbesondere aus der ehemaligen Sowjetunion (70% der Mitglieder), verleihen der Gemeinde eine multikulturelle Pr\u00e4gung.","id":"_mh50na49s","type":"paragraph"},{"attrs":[],"content":"Traditionelle j\u00fcdische Elemente, wie z.B. das Lesen aus der eigenen Torahrolle, pr\u00e4gen die Gottesdienste. Diese werden auf Hebr\u00e4isch gehalten und auf Russisch und Englisch simultan \u00fcbersetzt. Ein Netzwerk von nach Sprachen aufgeteilten Hauskreisen im grossen Einzugsgebiet Netanyas soll in Zukunft auch den Aufbau von weiteren Gemeinden erm\u00f6glichen.","id":"_u3k7k1bap","type":"paragraph"}]'
+    - 
+      text: '[{"attrs":[],"content":"Beit Asaph wird gemeinsam geleitet von Evan Thomas, einem in den 80er Jahren eingewanderten neuseel\u00e4ndischen Juden, und Lev Guler, der mit seiner Familie in den 90er Jahren aus der Ukraine eingewandert war.","id":"_106ybfw7l","type":"paragraph"},{"attrs":[],"content":"Die Gemeinde ist in vielen verschiedenen Bereichen t\u00e4tig: Vers\u00f6hnungsinitiative mit pal\u00e4stinensischen Gl\u00e4ubigen (Musalaha), nationale Evangelisationseins\u00e4tze, Entwicklung von Shabbat-Schulungsmaterial f\u00fcr Kinder und Jugendliche, Verteilung von Kleidern und Essen an Hilfsbed\u00fcrftige (Joseph Project), Dienst an Behinderten, Hilfsfonds f\u00fcr Alleinerziehende, u.a.m.","id":"_n19mksij8","type":"paragraph"}]'
+  container: default
+  textalign: left
+  _uid: columns_1576664207965_6582
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Immanuel Evangelical Church of Bethlehem","id":"_wte9as5jx","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/nihad.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1393287438-1576665006\/nihad.jpg","id":"partner\/nihad.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_4rcmd04r6","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Mit \u00fcber 200 Mitgliedern hat diese aktive pal\u00e4stinensische Gemeinde eine Vorreiterrolle in den Autonomiegebieten inne. Das Leben f\u00fcr die Gl\u00e4ubigen ist dort sehr schwierig und oft auch gef\u00e4hrlich. Die schwierige wirtschaftliche Situation und hohe Arbeitslosigkeit schaffen zus\u00e4tzlichen Druck. Unter der Leitung von Pastor Nihad Salman und seinem \u00c4ltestenteam, l\u00e4sst sich die Gemeinde weder von den Schwierigkeiten noch von der fehlenden Unterst\u00fctzung der Kirche beirren: \u00abGott hat uns als Gl\u00e4ubige hier den Menschen in den Weg gestellt, um ihnen ein Licht zu sein!\u00bb","id":"_f92kox1h8","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Die 'Immanuel Church' hat bereits weitere Gemeinden in der Region gestartet, unterst\u00fctzt neue Gemeindegr\u00fcndungen und betreibt am Hauptplatz Bethlehems den mittlerweile einzigen christlichen B\u00fccherladen in den pal\u00e4stinensischen Autonomiegebieten. Mit arabischen Bibeln, B\u00fcchern und CDs ist der Laden zu einem Anziehungspunkt in Bethlehem geworden.","id":"_3m1vrn2l7","type":"paragraph"},{"attrs":[],"content":"Nihad Salman ist es gelungen, ein Team von jungen Leitern aufzubauen. be'yachad freut sich, diesen Schritt erm\u00f6glichen zu k\u00f6nnen.","id":"_y3zyrw28h","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576664677551_8093
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Gemeinde Shemen Sasson Jerusalem","id":"_wkxie4wv2","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/jonathan.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/1913066001-1576666441\/jonathan.jpg","id":"partner\/jonathan.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_3srifsu0i","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Shemen Sasson (\u00d6l der Freude) hat 1992 als Hauskreis begonnen und wurde schon bald f\u00fcr normale Wohnungsr\u00e4ume zu gross. Seither investiert sich die Gemeinde v.a. unter den jungen, im Land geborenen Israelis (Sabres). Ein nach Sprachen organisiertes Netzwerk von Hauskreisen erm\u00f6glicht ein gesundes Gemeindewachstum. Die Gemeinde ist bereits auf rund 200 Mitglieder angewachsen, die lebendigen hebr\u00e4ischsprachigen Gottesdienste ziehen auch viele Besucher an.","id":"_7izej1cys","type":"paragraph"},{"attrs":[],"content":"Vers\u00f6hnungsarbeit ist der Gemeinde wichtig: So stellen sie grosse Teams zusammen, um in den \u00e4rmlichen arabischen Quartieren Jerusalems Abfall zu sammeln und dadurch Beziehungen zu den Menschen dort aufzubauen.","id":"_l9kvqr8lc","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Shemen Sasson bezieht ihren Auftrag aus Jesaja 61: 'die Trauernden Zions zu tr\u00f6sten, ihnen Sch\u00f6nheit statt Asche zu geben, Freuden\u00f6l (Shemen Sasson) statt Trauer, ein Ruhmesgewand statt eines verzagten Geistes...'","id":"_epgvyyve7","type":"paragraph"},{"attrs":[],"content":"Die Gemeinde ist weithin bekannt f\u00fcr ihre dynamische Anbetung, welche wie die Stadt Jerusalem selbst eine Fusion von Ost und West; alt und modern, widerspiegelt. Sie haben ein bew\u00e4hrtes pastorales Team, das von Yonathan d’Almeida geleitet wird und zahlreiche junge Erwachsene, die sich voll in die Gemeindearbeit investieren und einen Unterschied in ihrer Generation machen m\u00f6chten.","id":"_ekcps9pbj","type":"paragraph"},{"attrs":[],"content":"Die wachsende Gemeinde st\u00f6sst an die Grenzen dessen, was mit ehrenamtlicher Mitarbeit m\u00f6glich ist.","id":"_vd49dn70n","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665033035_10299
+  _key: columns
+  uidline: null
+  isnew: true
+- 
+  text: '[{"attrs":[],"content":"Evangelical Alliance Church Altstadt Jerusalems","id":"_wxx5vf5jz","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/mazen.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/2550337838-1576666280\/mazen.jpg","id":"partner\/mazen.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_xiklh38r1","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Die Alliance Church ist mit \u00fcber 100 Mitgliedern eine der gr\u00f6ssten und auch \u00e4ltesten Gemeinden in der Altstadt Jerusalems. Die Gemeinde hat in den letzten Jahren weitere pal\u00e4stinensisch-christliche Gemeinden gegr\u00fcndet. In Jerusalem leben 270000 Ostjerusalemer Araber, die die israelische Staatsb\u00fcrgerschaft bei der Staatsgr\u00fcndung nicht erhalten haben. Die Alliance Church arbeitet besonders unter dieser Bev\u00f6lkerungsgruppe. Daneben betreibt sie eine gr\u00f6ssere Entwicklungs- und Sozialarbeit im Gebiet der n\u00f6rdlichen Westbank.","id":"_3zd31hze8","type":"paragraph"},{"attrs":[],"content":"Die Gemeinde wird vom Pastor Mazen Nasrawi und einem Team von \u00c4ltesten geleitet. Ihr Herzensanliegen ist es, die arabisch sprechenden Menschen im Land zu erreichen, sei es durch Strassenevangelisation, Openair Feste der christlichen Feiertage, humanit\u00e4re Hilfe oder mittels Inseratekampagnen mit Telefon Hotlines und der Nutzung moderner Medien.","id":"_f52z6ts6m","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Das Vision Statement der Gemeinde lautet: 'Als gesunde Familien f\u00fcr Christus leben, wachsen und der Gesellschaft dienen.'","id":"_oioq9i4mh","type":"paragraph"},{"attrs":[],"content":"Die Leiter der Alliance Church pflegen enge Beziehungen zu messianisch- j\u00fcdischen Gemeinden. Gegenseitig laden sie sich auch zum Predigen ein und organisieren gemeinsame Worship-Konzerte in Jerusalem.","id":"_240gupwnr","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665261344_12294
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Kfar Yassif Church","id":"_33et6mcgv","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/khaled.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/2964219499-1576666270\/khaled.jpg","id":"partner\/khaled.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_heka1cmx3","type":"image"}]'
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Pastor Khaled Dalleh leitet aktuell 2 Baptistengemeinden in arabischen St\u00e4dten im Norden Israels (Kfar Yassif und Akko) mit je rund 50-100 Mitgliedern. In der Vergangenheit hat er immer wieder als Pastor von kleineren Gemeinden gedient, junge Leiter aufgebaut und ihnen dann die volle pastorale Verantwortung \u00fcbertragen. Er begleitet diese jungen Pastoren auch weiterhin als Mentor.","id":"_8xnauguek","type":"paragraph"},{"attrs":[],"content":"Khaled ist in Kfar Yassif zur Welt gekommen. Bereits als Kind hatte ihn seine jesusgl\u00e4ubige Grossmutter auf Hausbesuche zu den moslemischen Nachbarn mitgenommen (solche Besuche waren damals noch sehr ungew\u00f6hnlich). Er musste f\u00fcr sie aus der Bibel vorlesen, weil sie nicht mehr gut lesen konnte. Nach einigen solchen Eins\u00e4tzen kam er selbst mit 12 zum Glauben - seither ist es sein Herzensanliegen, seine N\u00e4chsten mit dem Glauben zu erreichen, ob sie nun moslemisch oder traditionell-christlich sind. Entsprechend durchmischt sind auch die von ihm geleiteten Gemeinden. Sie erleben h\u00e4ufig, wie sich Jesus vor allem moslemischen Menschen in Tr\u00e4umen zeigt und diese sich dann, trotz z.T. massiver Verfolgung durch ihre Familien, f\u00fcr Jesus entscheiden.","id":"_d7jx09tor","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Die Gemeinden k\u00f6nnen mit ihrem Zehnten die Mietkosten und andere Aufw\u00e4nde decken, aber kaum den Pastorenlohn. Khaled wird in seiner Arbeit von einem \u00c4ltestenteam und vielen ehrenamtlichen Mitarbeitern unterst\u00fctzt.","id":"_vlir0tog5","type":"paragraph"},{"attrs":[],"content":"be'yachad unterst\u00fctzt seine Arbeit mit einem Lohnbeitrag seit Okt 2012.","id":"_bu0z9tf8e","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576665545249_13597
+  _key: columns
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Ratzon Ha'El, Haifa","id":"_lma0uiocv","type":"h2"},{"attrs":{"guid":"\/pages\/partner\/files\/zachariah.jpg","src":"https:\/\/beyachad.test\/media\/pages\/partner\/532887875-1576666256\/zachariah.jpg","id":"partner\/zachariah.jpg","ratio":1.7777777777777777,"caption":""},"content":"","id":"_n5np1xxvz","type":"image"}]
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Pastor Zachariah Arny ist \u00e4thiopischer Jude und Pastor einer \u00e4thiopischen messianisch-j\u00fcdischen Gemeinde in Haifa. In den letzten 30 Jahren sind insgesamt ca. 150'000 \u00e4thiopische Juden nach Israel eingewandert und inzwischen sind rund 1500 von ihnen zum Glauben an Yeshua gekommen - \u00fcbers ganze Land verteilt, gibt es heute 9 \u00e4thiopische Gemeinden.","id":"_y512oyfz3","type":"paragraph"},{"attrs":[],"content":"Gottesdienstsprache ist Amharisch und Hebr\u00e4isch. Viele \u00e4thiopische Juden sind in Israel sozial benachteiligt und werden aufgrund ihrer Hautfarbe diskriminiert. Wenn jemand von ihnen zum Glauben an Yeshua kommt, erlebt er in der Regel heftige Ablehnung seitens der j\u00fcdisch-religi\u00f6sen Familie und Sippe. Ebenso war es bei Zachariah und seiner Frau Almaz: ihre Hochzeit wurde von der Familie von Almaz regelrecht gest\u00fcrmt: Sie haben alles kurz und klein geschlagen und wollten Zachariah umbringen - er konnte Gott sei Dank fl\u00fcchten. Heute, 6 Jahre sp\u00e4ter, hat die Familie ihren Glauben akzeptiert, bittet Zachariah um Gebet und stellt viele Fragen!","id":"_uxwisslvz","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Zachariah betreut aktuell ca. 40 \u00e4thiopische Juden in Haifa, die zum Glauben an Yeshua gekommen sind, sich aber noch nicht trauen, dies ihrer Familie zu erz\u00e4hlen. Zachariah begleitet diese Personen vor allem telefonisch und in Einzeltreffen.","id":"_2xpc5gsdi","type":"paragraph"},{"attrs":[],"content":"Seine Gemeinde, Ratzon Ha'El (Wille Gottes) in Haifa, gibt es seit 9 Jahren und sie umfasst inzwischen 50 Erwachsene und 10 Kinder. Eine Pastorenanstellung lag vor der Unterst\u00fctzung durch be'yachad (seit Okt 2012) nicht drin. Nun kann die Gemeinde, Zachariah eine 40% Anstellung erm\u00f6glichen.","id":"_kc69ht1u6","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576666054557_15138
+  _key: columns
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

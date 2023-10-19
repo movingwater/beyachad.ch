@@ -1,0 +1,17 @@
+Title: Logo be'yachad
+
+----
+
+Startwidth: 230
+
+----
+
+Scrollwidth: 130
+
+----
+
+Focus: {"x":0.5,"y":0.5}
+
+----
+
+Template: logo

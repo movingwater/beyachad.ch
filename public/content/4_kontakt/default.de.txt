@@ -1,0 +1,50 @@
+Title: Kontakt
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - together.jpg
+  text: '[{"attrs":[],"content":"Kontakt","id":"_ow23lwypg","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1576744211893_21536
+  _key: banner
+  uidline: null
+- 
+  text: ""
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Adresse","id":"_zbSQJ4Vuj","type":"h2"},{"attrs":[],"content":"Verein be'yachad <br>Bernstrasse 3 <br>CH-3076 Worb","id":"_cvvtdaivj","type":"paragraph"},{"attrs":[],"content":"(email: info@beyachad.ch)","id":"_xan42h0s7","type":"kirbytext"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Spenden","id":"_rE5K4rm6r","type":"h2"},{"attrs":[],"content":"<strong>Kontoinhaber<\/strong><br>be'yachad<br>Bernstrasse 3<br>3076 Worb","id":"_xes3nilua","type":"paragraph"},{"attrs":[],"content":"<strong>Name und Adresse der Bank<\/strong><br>UBS AG, CH - 8098 Z\u00fcrich","id":"_3jgcw7bvz","type":"paragraph"},{"attrs":[],"content":"<strong>Konto-Nr.<\/strong><br>235 - 472067.40N","id":"_mvo5hs7xj","type":"paragraph"},{"attrs":[],"content":"<strong>IBAN<\/strong><br>CH33 0023 5235 4720 6740 N","id":"_qvcqvegta","type":"paragraph"},{"attrs":[],"content":"<strong>BIC<\/strong><br>UBSWCHZH80A","id":"_kqv1up58o","type":"paragraph"},{"attrs":[],"content":"Spenden an be'yachad sind in der Schweiz steuerlich vollumf\u00e4nglich abzugsf\u00e4hig seit anfangs 2011.","id":"_29vu40okc","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576744585647_25540
+  _key: columns
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

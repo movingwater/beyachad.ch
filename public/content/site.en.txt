@@ -1,0 +1,90 @@
+Title: be'yachad
+
+----
+
+Navtext: [{"attrs":[],"content":"Vision","id":"_HIcEDNlGK","type":"h3"},{"attrs":[],"content":"Networking with Messianic-Jewish and Palestinian-Christian congregations encourages reconciliation. Supporting their local staff contributes to congregational growth in Israel and the Palestinian Autonomous Area.","id":"_RLwjuXFyy","type":"paragraph"},{"attrs":[],"content":"be'yachad<br>Bernstrasse 3<br>CH-3076 Worb<br><a href=\"mailto:info@beyachad.ch\">info@beyachad.ch<\/a>","id":"_SJXgVyXfC","type":"paragraph"}]
+
+----
+
+Brandtitle: be'yachad
+
+----
+
+Footercolumns:
+
+- 
+  type: textarea
+  columntitle: "be'yachad"
+  text: '[{"attrs":[],"content":"Networking with Messianic-Jewish and Palestinian-Christian congregations encourages reconciliation. Supporting their local staff contributes to congregational growth in Israel and the Palestinian Autonomous Area.","id":"_yhctr0nwu","type":"paragraph"}]'
+  links: [ ]
+  navtitle: ""
+  nav: null
+- 
+  type: nav
+  columntitle: Inhalt
+  text: ""
+  links: [ ]
+  navtitle: Seiten
+  nav: null
+- 
+  type: textarea
+  columntitle: Kontakt
+  text: |
+    [{"attrs":[],"content":"Verein be'yachad<br>Bernstrasse 3<br>CH-3076 Worb","id":"_2FDVfHRjm","type":"paragraph"},{"attrs":[],"content":"<a href=\"mailto:info@beyachad.ch\">info@beyachad.ch<\/a>","id":"_HvoKIRn5F","type":"paragraph"},{"attrs":[],"content":"","id":"_MFSZPJvTL","type":"paragraph"}]
+  links: [ ]
+  navtitle: ""
+  nav: null
+
+----
+
+Copyright: [{"attrs":[],"content":"\u00a9 (date: year) be'yachad |\u00a0made with (link: https:\/\/protozoon.ch text: Protozoon target: blank)","id":"_jdzy3wcc0","type":"kirbytext"}]
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: Networking with Messianic-Jewish and Palestinian-Christian congregations encourages reconciliation. Supporting their local staff contributes to congregational growth in Israel and the Palestinian Autonomous Area.
+
+----
+
+Seocover:
+
+- beyachad.jpg
+
+----
+
+Hidenavbar: false
+
+----
+
+Showsubpages: true
+
+----
+
+Hamburger: true
+
+----
+
+Cover: 
+
+----
+
+Footercolor: white
+
+----
+
+Navcolor: white
+
+----
+
+Navtitle: Menu
+
+----
+
+Color: 873335

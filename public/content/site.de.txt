@@ -1,0 +1,146 @@
+Title: be'yachad
+
+----
+
+Primary: #008080
+
+----
+
+Secondary: #2A6CAB
+
+----
+
+Shownavbar: true
+
+----
+
+Navcolor1: white
+
+----
+
+Navcolor2: primary-500
+
+----
+
+Brand: true
+
+----
+
+Showtitle: false
+
+----
+
+Showmenu: true
+
+----
+
+Langnav: true
+
+----
+
+Menutype: text
+
+----
+
+Offnavcolor1: primary-500
+
+----
+
+Offnavcolor2: white
+
+----
+
+Navtext: [{"attrs":[],"content":"Vision","id":"_HIcEDNlGK","type":"h3"},{"attrs":[],"content":"Vernetzung mit messianisch-j\u00fcdischen und pal\u00e4stinensisch-christlichen Gemeinden ermutigt, Vers\u00f6hnung zu leben. Die Unterst\u00fctzung ihrer Mitarbeiter f\u00f6rdert Gemeindewachstum in Israel und in den autonomen Gebieten.","id":"_RLwjuXFyy","type":"paragraph"},{"attrs":[],"content":"Verein be'yachad<br>Bernstrasse 3<br>CH-3076 Worb<br><a href=\"mailto:info@beyachad.ch\">info@beyachad.ch<\/a>","id":"_SJXgVyXfC","type":"paragraph"}]
+
+----
+
+Brandtitle: be'yachad
+
+----
+
+Footercolorbg: primary-500
+
+----
+
+Footercolortext: white
+
+----
+
+Footercolumns:
+
+- 
+  type: textarea
+  columntitle: "be'yachad"
+  text: '[{"attrs":[],"content":"Vernetzung mit messianisch-j\u00fcdischen und pal\u00e4stinensisch-christlichen Gemeinden ermutigt, Vers\u00f6hnung zu leben. Die Unterst\u00fctzung ihrer Mitarbeiter f\u00f6rdert Gemeindewachstum in Israel und in den autonomen Gebieten.","id":"_yhctr0nwu","type":"paragraph"}]'
+  links: [ ]
+  navtitle: ""
+  nav: null
+- 
+  type: nav
+  columntitle: Inhalt
+  text: ""
+  links: [ ]
+  navtitle: Seiten
+  nav: null
+- 
+  type: textarea
+  columntitle: Kontakt
+  text: |
+    [{"attrs":[],"content":"Verein be'yachad<br \/>\nBernstrasse 3<br \/>\nCH-3076 Worb","id":"_2FDVfHRjm","type":"paragraph"},{"attrs":[],"content":"<a href=\"mailto:&#105;&#x6e;&#102;&#111;&#64;&#x62;&#101;&#x79;&#97;&#99;&#x68;&#97;&#x64;&#46;&#x63;&#104;\">&#105;&#110;&#102;&#111;&#64;&#98;&#x65;&#x79;&#x61;&#x63;&#x68;&#x61;&#x64;&#46;&#x63;&#x68;<\/a>","id":"_HvoKIRn5F","type":"paragraph"},{"attrs":[],"content":"<a href=\"https:\/\/www.facebook.com\"><em><\/em> <\/a> <a href=\"https:\/\/www.twitter.com\"><em><\/em> <\/a> <a href=\"https:\/\/www.instagram.com\"><em><\/em> <\/a>","id":"_MFSZPJvTL","type":"paragraph"}]
+  links: [ ]
+  navtitle: ""
+  nav: null
+
+----
+
+Copyright: [{"attrs":[],"content":"\u00a9 (date: year) be'yachad |\u00a0made with (link: https:\/\/protozoon.ch text: Protozoon target: blank)","id":"_jdzy3wcc0","type":"kirbytext"}]
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: Vernetzung mit messianisch-jüdischen und palästinensisch-christlichen Gemeinden ermutigt, Versöhnung zu leben. Die Unterstützung ihrer Mitarbeiter fördert Gemeindewachstum in Israel und in den autonomen Gebieten.
+
+----
+
+Seocover:
+
+- beyachad.jpg
+
+----
+
+Hidenavbar: false
+
+----
+
+Showsubpages: true
+
+----
+
+Hamburger: true
+
+----
+
+Cover: 
+
+----
+
+Footercolor: white
+
+----
+
+Navcolor: white
+
+----
+
+Navtitle: Menu
+
+----
+
+Color: 873335

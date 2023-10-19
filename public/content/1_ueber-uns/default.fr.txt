@@ -1,0 +1,64 @@
+Title: Qui sommes-nous
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - about.jpg
+  text: '[{"attrs":{"id":null},"content":"Qui sommes-nous?","id":"_PPq2uS7fY","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: small
+  bgstyle: ""
+  textstyle: light
+  textalign: center
+  textvalign: middle
+  _uid: banner_1566502703326_3859
+  _key: banner
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vision","id":"_vgdfSbAAe","type":"h2"},{"attrs":[],"content":"La mise en r\u00e9seau avec les communaut\u00e9s juives messianiques et palestiniennes chr\u00e9tiennes encourage \u00e0 la r\u00e9conciliation. Le soutien accord\u00e9 \u00e0 leurs collaborateurs favorise le d\u00e9veloppement des communaut\u00e9s en Isra\u00ebl et dans les Territoires Autonomes.","id":"_KZz3GF5RB","type":"paragraph"}]'
+  container: default
+  textalign: center
+  _uid: default_1566502749578_4167
+  _key: default
+  uidline: null
+- 
+  text: ""
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"D\u00e9marche","id":"_7r77397dn","type":"h2"},{"attrs":[],"content":"Par un effort d'information, nous mettons en \u00e9vidence la situation et les besoins de nos partenaires et contribuons ainsi \u00e0 une compr\u00e9hension mutuelle. Nous entrons en partenariat avec des communaut\u00e9s juives messianiques ainsi que des \u00e9glises palestiniennes chr\u00e9tiennes et participons au financement de collaborateurs locaux. Nous proposons ainsi un engagement actif.","id":"_uaddpc054","type":"paragraph"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Organisation","id":"_Y4tCQa5fC","type":"h2"},{"attrs":[],"content":"be'yachad est constitu\u00e9e en association. Les dons sont transf\u00e9r\u00e9s aux communaut\u00e9s en Isra\u00ebl et dans les Territoires Autonomes. Les d\u00e9penses de fonctionnement de l'association sont couvertes par les souscriptions des membres, ainsi que par les contributions de partenaires que ce soient des \u00e9glises ou des personnes individuelles.","id":"_2cpq5rhfz","type":"paragraph"},{"attrs":[],"content":"En Suisse, les <a href=\"kontakt\">dons<\/a> sont \u00e0 100% d\u00e9ductibles des imp\u00f4ts, depuis d\u00e9but 2011.","id":"_byrt0q3e5","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576662740976_298
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Direction","id":"_lw9lk3l3p","type":"h2"},{"attrs":{"guid":"\/pages\/ueber-uns\/files\/vorstand.jpg","src":"https:\/\/beyachad.test\/media\/pages\/ueber-uns\/3939456602-1576663841\/vorstand.jpg","id":"ueber-uns\/vorstand.jpg","ratio":4.651162790697675,"caption":""},"content":"","id":"_ipueutnaw","type":"image"},{"attrs":[],"content":"","id":"_xqeqby5eu","type":"paragraph"},{"attrs":[],"content":"","id":"_ikfywm1gg","type":"paragraph"},{"attrs":[],"content":"Thomas Zaugg, Vineyard Bern <br>Marc Schachtler, new life Bern <br>Evan Thomas, Beit Asaph Netanya <br>Nihad Salman, Immanuel Church Bethlehem <br>Elisabeth Loosli, Reformierte Kirche Ittigen <br>Thomas Eggenberg, CLZ Bern","id":"_sdx8amhcd","type":"paragraph"}]'
+  container: default
+  textalign: left
+  _uid: default_1576663703768_2268
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

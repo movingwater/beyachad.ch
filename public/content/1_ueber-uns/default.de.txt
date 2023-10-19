@@ -1,0 +1,63 @@
+Title: Über uns
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - about.jpg
+  text: '[{"attrs":{"id":null},"content":"\u00dcber uns","id":"_PPq2uS7fY","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: small
+  bgstyle: ""
+  textstyle: light
+  textalign: center
+  textvalign: middle
+  _uid: banner_1566502703326_3859
+  _key: banner
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vision","id":"_vgdfSbAAe","type":"h2"},{"attrs":[],"content":"Vernetzung mit messianisch-j\u00fcdischen und pal\u00e4stinensisch-christlichen Gemeinden ermutigt, Vers\u00f6hnung zu leben. Die Unterst\u00fctzung ihrer Mitarbeiter f\u00f6rdert Gemeindewachstum in Israel und in den autonomen Gebieten.","id":"_KZz3GF5RB","type":"paragraph"}]'
+  container: default
+  textalign: center
+  _uid: default_1566502749578_4167
+  _key: default
+  uidline: null
+- 
+  text: ""
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Vorgehen","id":"_7r77397dn","type":"h2"},{"attrs":[],"content":"Durch Aufkl\u00e4rungsarbeit zeigen wir Situation und Anliegen unserer Partner und leisten so einen Beitrag zum gegenseitigen Verst\u00e4ndnis. Wir bauen Partnerschaften mit messianisch-j\u00fcdischen und pal\u00e4stinensisch-christlichen Gemeinden auf und helfen mit finanzieller Unterst\u00fctzung, lokale Mitarbeiter freizusetzen. Wir bieten Gelegenheit, sich aktiv an diesem Auftrag zu beteiligen.","id":"_uaddpc054","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Organisation","id":"_Y4tCQa5fC","type":"h2"},{"attrs":[],"content":"be'yachad ist als Verein organisiert. Spenden werden an die unterst\u00fctzten Gemeinden in Israel und den autonomen Gebieten weitergeleitet. Kosten des Vereins werden durch Mitglieder- und Partnerbeitr\u00e4ge von Gemeinden und Privatpersonen gedeckt.","id":"_b7nvjhw1w","type":"paragraph"},{"attrs":[],"content":"<a href=\"kontakt\">Spenden<\/a> an be'yachad sind in der Schweiz steuerlich vollumf\u00e4nglich abzugsf\u00e4hig seit anfangs 2011.","id":"_1n5wu1r1s","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576662740976_298
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vorstand","id":"_lw9lk3l3p","type":"h2"},{"attrs":{"guid":"\/pages\/ueber-uns\/files\/vorstand.jpg","src":"https:\/\/beyachad.test\/media\/pages\/ueber-uns\/3939456602-1576663841\/vorstand.jpg","id":"ueber-uns\/vorstand.jpg","ratio":4.651162790697675,"caption":""},"content":"","id":"_ipueutnaw","type":"image"},{"attrs":[],"content":"","id":"_xqeqby5eu","type":"paragraph"},{"attrs":[],"content":"","id":"_ikfywm1gg","type":"paragraph"},{"attrs":[],"content":"Thomas Zaugg, Vineyard Bern <br>Marc Schachtler, new life Bern <br>Evan Thomas, Beit Asaph Netanya <br>Nihad Salman, Immanuel Church Bethlehem <br>Elisabeth Loosli, Reformierte Kirche Ittigen <br>Thomas Eggenberg, CLZ Bern","id":"_sdx8amhcd","type":"paragraph"}]'
+  container: default
+  textalign: left
+  _uid: default_1576663703768_2268
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

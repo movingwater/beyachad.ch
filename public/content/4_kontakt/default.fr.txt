@@ -1,0 +1,50 @@
+Title: Contact
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - together.jpg
+  text: '[{"attrs":[],"content":"Contact","id":"_ow23lwypg","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1576744211893_21536
+  _key: banner
+  uidline: null
+- 
+  text: ""
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Adresse","id":"_zbSQJ4Vuj","type":"h2"},{"attrs":[],"content":"Association be'yachad <br>Bernstrasse 3 <br>CH-3076 Worb","id":"_cvvtdaivj","type":"paragraph"},{"attrs":[],"content":"(email: info@beyachad.ch)","id":"_xan42h0s7","type":"kirbytext"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Dons","id":"_bT6p1BzfE","type":"h2"},{"attrs":[],"content":"be'yachad<br>Bernstrasse 3<br>3076 Worb","id":"_3q44agvyp","type":"paragraph"},{"attrs":[],"content":"<strong>Nom et adresse de la banque<\/strong><br>UBS AG, CH - 8098 Z\u00fcrich","id":"_bp0ltntgk","type":"paragraph"},{"attrs":[],"content":"<strong>Compte<\/strong><br>235 - 472067.40N","id":"_4utmc8pt3","type":"paragraph"},{"attrs":[],"content":"<strong>IBAN<\/strong><br>CH33 0023 5235 4720 6740 N","id":"_0h3lz5d7j","type":"paragraph"},{"attrs":[],"content":"<strong>BIC<\/strong><br>UBSWCHZH80A","id":"_omrw7n3so","type":"paragraph"},{"attrs":[],"content":"En Suisse, les dons sont \u00e0 100% d\u00e9ductibles des imp\u00f4ts, depuis d\u00e9but 2011.","id":"_3iflomotz","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576744585647_25540
+  _key: columns
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

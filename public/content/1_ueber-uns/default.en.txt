@@ -1,0 +1,63 @@
+Title: About us
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - about.jpg
+  text: '[{"attrs":{"id":null},"content":"About us","id":"_PPq2uS7fY","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: small
+  bgstyle: ""
+  textstyle: light
+  textalign: center
+  textvalign: middle
+  _uid: banner_1566502703326_3859
+  _key: banner
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vision","id":"_vgdfSbAAe","type":"h2"},{"attrs":[],"content":"Networking with Messianic-Jewish and Palestinian-Christian congregations encourages reconciliation. Supporting their local staff contributes to congregational growth in Israel and the Palestinian Autonomous Area.","id":"_KZz3GF5RB","type":"paragraph"}]'
+  container: default
+  textalign: center
+  _uid: default_1566502749578_4167
+  _key: default
+  uidline: null
+- 
+  text: ""
+  columns:
+    - 
+      text: '[{"attrs":[],"content":"Approach","id":"_7r77397dn","type":"h2"},{"attrs":[],"content":"By sharing the situation and needs of our partners we contribute to a mutual understanding. <br>We build partnerships with Messianic-Jewish and Palestinian-Christian congregations and support the development of local staff financially. We invite churches and individuals to engage actively in this objective.","id":"_uaddpc054","type":"paragraph"}]'
+    - 
+      text: |
+        [{"attrs":[],"content":"Organization","id":"_Y4tCQa5fC","type":"h2"},{"attrs":[],"content":"be'yachad is organized as a Swiss Association. Donations are forwarded directly to our partners. Administrative costs are covered by annual membership fees and partnership contributions from churches and individuals.","id":"_ooky89zna","type":"paragraph"},{"attrs":[],"content":"<a href=\"kontakt\">Donations<\/a> made out to be'yachad are fully tax-deductible in Switzerland since January 2011.","id":"_52lbjtp5h","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576662740976_298
+  _key: columns
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Board","id":"_y2odjbm6t","type":"h2"},{"attrs":{"guid":"\/pages\/ueber-uns\/files\/vorstand.jpg","src":"https:\/\/beyachad.test\/media\/pages\/ueber-uns\/3939456602-1576663841\/vorstand.jpg","id":"ueber-uns\/vorstand.jpg","ratio":4.651162790697675,"caption":""},"content":"","id":"_ipueutnaw","type":"image"},{"attrs":[],"content":"","id":"_xqeqby5eu","type":"paragraph"},{"attrs":[],"content":"","id":"_ikfywm1gg","type":"paragraph"},{"attrs":[],"content":"Thomas Zaugg, Vineyard Bern <br>Marc Schachtler, new life Bern <br>Evan Thomas, Beit Asaph Netanya <br>Nihad Salman, Immanuel Church Bethlehem <br>Elisabeth Loosli, Reformierte Kirche Ittigen <br>Thomas Eggenberg, CLZ Bern","id":"_sdx8amhcd","type":"paragraph"}]'
+  container: default
+  textalign: left
+  _uid: default_1576663703768_2268
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

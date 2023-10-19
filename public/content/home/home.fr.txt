@@ -1,0 +1,47 @@
+Builder:
+
+- 
+  myimages:
+    - together02.jpg
+  text: '[{"attrs":[],"content":"together","id":"_0gdzoerxw","type":"h1"},{"attrs":[],"content":"gemeinsam. verbunden.","id":"_9g48h2dls","type":"paragraph"}]'
+  containerheight: full
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: bottom
+  _uid: banner_1566479551884_665
+  _key: banner
+  uidline: null
+- 
+  text: '[{"attrs":[],"content":"Vision","id":"_lyg8q5Dd7","type":"h2"},{"attrs":[],"content":"La mise en r\u00e9seau avec les communaut\u00e9s juives messianiques et palestiniennes chr\u00e9tiennes encourage \u00e0 la r\u00e9conciliation. Le soutien accord\u00e9 \u00e0 leurs collaborateurs favorise le d\u00e9veloppement des communaut\u00e9s en Isra\u00ebl et dans les Territoires Autonomes.","id":"_Mo0fHjaBo","type":"paragraph"},{"attrs":[],"content":"(link: ueber-uns text: plus class: button-1)","id":"_5a5oqxvcg","type":"kirbytext"}]'
+  container: default
+  textalign: left
+  _uid: default_1566479654521_968
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Participation \u00e0 be'yachad","id":"_TeW9UYEgN","type":"h2"},{"attrs":[],"content":"<br>Si vous \u00eates int\u00e9ress\u00e9 par l'oeuvre de Dieu parmi les juifs messianiques et les chr\u00e9tiens palestiniens, en Isra\u00ebl et dans les Territoires Autonomes, si vous \u00eates enthousiasm\u00e9 par le message de r\u00e9conciliation qui nous vient de cette partie du monde, alors vous trouverez au verso des possibilit\u00e9s de participation. Nous nous r\u00e9jouissons de votre feedback! Les dons \u00e9tant destin\u00e9s aux communaut\u00e9s partenaires sur place, nous recherchons aussi des personnes qui soutiennent be'yachad ici, en tant qu'organisation.","id":"_Dcc4seKpH","type":"paragraph"},{"attrs":[],"content":"(link: mitwirken text: prendre part class: button-1) (link: kontakt text: Donner class: button-2)","id":"_gjdmmdiu9","type":"kirbytext"}]
+  container: default
+  textalign: ""
+  _uid: default_1566480019891_1965
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

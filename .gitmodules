@@ -1,0 +1,6 @@
+[submodule "public/site/plugins/protozoon-core"]
+	path = public/site/plugins/protozoon-core
+	url = https://movingwater@bitbucket.org/protozoon/protozoon-core.git
+[submodule "public/site/plugins/protozoon-donations"]
+	path = public/site/plugins/protozoon-donations
+	url = https://movingwater@bitbucket.org/protozoon/protozoon-donations.git

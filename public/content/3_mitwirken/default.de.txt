@@ -1,0 +1,60 @@
+Title: Mitwirken
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - drops.jpg
+  text: '[{"attrs":{"id":null},"content":"Mitwirken","id":"_DA6DQuKnw","type":"h1"}]'
+  containerheight: large
+  container: default
+  padding: small
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1566502864182_4638
+  _key: banner
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"Mitwirken bei be'yachad","id":"_vjZeqQyFQ","type":"h2"},{"attrs":[],"content":"Interessiert Sie Gottes Wirken unter messianischen Juden und pal\u00e4stinensischen Christen in Israel und den autonomen Gebieten? Begeistert Sie die Botschaft der Vers\u00f6hnung, die uns gerade aus diesem Teil der Welt erreicht?","id":"_2qmzxdsKb","type":"paragraph"},{"attrs":[],"content":"Unten finden Sie M\u00f6glichkeiten zur Mitwirkung. Wir freuen uns auf Ihr Feedback! Da Spenden f\u00fcr Partner vor Ort eingesetzt werden, sucht be'yachad auch Unterst\u00fctzer, die den Verein als Organisation mittragen.","id":"_xzsAP22Ql","type":"paragraph"},{"attrs":[],"content":"(link: kontakt text: Spenden class: button-2)","id":"_guf0tckd4","type":"kirbytext"}]
+  container: default
+  textalign: center
+  _uid: default_1566502958224_5074
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"be'yachad Partner oder Vereinsmitglieder sind Gemeinden und Einzelpersonen, die...","id":"_SQIwr9gv3","type":"h3"},{"attrs":[],"content":"Vision und Vorgehen von be'yachad unterst\u00fctzen","id":"_ux1Iok81r","type":"ul"},{"attrs":[],"content":"be'yachad als Organisation finanziell mittragen","id":"_EH2VCbm7j","type":"ul"},{"attrs":[],"content":"f\u00fcr Anliegen der pal\u00e4stinensisch-christlichen und messianisch-j\u00fcdischen Partner beten","id":"_bgZiHBduV","type":"ul"},{"attrs":[],"content":"Als 'Partner' von be'yachad gehen Sie keine rechtlichen Verpflichtungen ein. Die H\u00f6he der finanziellen Unterst\u00fctzung ist f\u00fcr Partner frei w\u00e4hlbar.","id":"_xUFNI08r1","type":"ul"},{"attrs":[],"content":"Als Mitglied k\u00f6nnen Sie den Verein im Rahmen der GV mitgestalten. Jahresbeitrag 1000 CHF f\u00fcr Gemeinden \/ 500 CHF f\u00fcr Einzelpersonen.","id":"_MkLMpENDz","type":"ul"}]
+  container: default
+  textalign: ""
+  _uid: default_1566502993291_5228
+  _key: default
+  uidline: null
+- 
+  text: |
+    [{"attrs":[],"content":"be'yachad Dienstleistungen","id":"_9xyMAn2Si","type":"h3"},{"attrs":[],"content":"Bereitstellung aktueller Infos und Gebetsanliegen unserer Partner vor Ort","id":"_jyYOvTOBf","type":"ul"},{"attrs":[],"content":"Unterst\u00fctzung und Mithilfe in der Thematisierung von Israelfragen","id":"_FooYRXuav","type":"ul"},{"attrs":[],"content":"Kontakte zu lokalen Partnergemeinden in Israel und den autonomen Gebieten durch be'yachad","id":"_S4x2hRbTV","type":"ul"},{"attrs":[],"content":"Events mit israelischen und pal\u00e4stinensischen Partnern in der Schweiz","id":"_8kak38Brr","type":"ul"},{"attrs":[],"content":"Organisation von Israel Gruppenreisen f\u00fcr alle Interessierten; ein abwechslungsreiches Programm erwartet Sie: Land bereisen, Kultur und biblische Geschichte, Begegnungen mit Gemeinden und Gemeindemitgliedern von beiden Seiten, Erholung und Fun.","id":"_QBSudKl8C","type":"ul"},{"attrs":[],"content":"Beratung im Organisieren individueller Israelreisen","id":"_WqQbDuEiX","type":"ul"}]
+  container: default
+  textalign: ""
+  _uid: default_1566503062133_5394
+  _key: default
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 

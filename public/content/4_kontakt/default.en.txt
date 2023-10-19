@@ -1,0 +1,50 @@
+Title: Contact
+
+----
+
+Builder:
+
+- 
+  myimages:
+    - together.jpg
+  text: '[{"attrs":[],"content":"Contact","id":"_ow23lwypg","type":"h1"}]'
+  containerheight: medium
+  container: default
+  padding: default
+  bgstyle: ""
+  textstyle: light
+  textalign: left
+  textvalign: middle
+  _uid: banner_1576744211893_21536
+  _key: banner
+  uidline: null
+- 
+  text: ""
+  columns:
+    - 
+      text: |
+        [{"attrs":[],"content":"Address","id":"_zbSQJ4Vuj","type":"h2"},{"attrs":[],"content":"be'yachad <br>Bernstrasse 3 <br>CH-3076 Worb","id":"_cvvtdaivj","type":"paragraph"},{"attrs":[],"content":"(email: info@beyachad.ch)","id":"_xan42h0s7","type":"kirbytext"}]
+    - 
+      text: |
+        [{"attrs":[],"content":"Donations","id":"_jRmjhaKGC","type":"h2"},{"attrs":[],"content":"be'yachad<br>Bernstrasse 3<br>3076 Worb","id":"_d92a7djfn","type":"paragraph"},{"attrs":[],"content":"<strong>Name and address of bank<\/strong><br>UBS AG, CH - 8098 Zurich","id":"_ixbvq538g","type":"paragraph"},{"attrs":[],"content":"<strong>Account No<\/strong><br>235 - 472067.40N","id":"_vglv4q2ap","type":"paragraph"},{"attrs":[],"content":"<strong>IBAN<\/strong><br>CH33 0023 5235 4720 6740 N","id":"_0iz7ultn5","type":"paragraph"},{"attrs":[],"content":"<strong>BIC<\/strong><br>UBSWCHZH80A","id":"_i4zuzu4zo","type":"paragraph"},{"attrs":[],"content":"Donations made out to be'yachad are fully tax-deductible in Switzerland since January 2011.","id":"_ygvmzwyvo","type":"paragraph"}]
+  container: default
+  textalign: left
+  _uid: columns_1576744585647_25540
+  _key: columns
+  uidline: null
+
+----
+
+Customseotitle: false
+
+----
+
+Seotitle: 
+
+----
+
+Seotext: 
+
+----
+
+Seocover: 
